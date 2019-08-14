@@ -16,7 +16,7 @@ class MainActivity : Activity(), View.OnClickListener {
 
         btn_jump.setOnClickListener(this);
         //测试git
-        //dev 分支
+        //dev 分支++
     }
 
     override fun onClick(v: View?) {
