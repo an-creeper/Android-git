@@ -15,6 +15,7 @@ class MainActivity : Activity(), View.OnClickListener {
         setContentView(R.layout.activity_main)
 
         btn_jump.setOnClickListener(this);
+        //测试git
     }
 
     override fun onClick(v: View?) {
